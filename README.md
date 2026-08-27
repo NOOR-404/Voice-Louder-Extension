@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8ac58d8-104d-43fc-a10c-3e39502712ee" />
+  <img src="https://github.com/user-attachments/assets/f0663757-236b-40cb-96d8-435c936c8bac" />
 </p>
 
 <h1 align="center">🔈 VOICE LOUDER</h1>
