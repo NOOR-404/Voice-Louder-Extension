@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f0663757-236b-40cb-96d8-435c936c8bac" />
+  <img src="https://github.com/user-attachments/assets/f9ceb417-3e42-4457-9c69-afad9e854cf8" />
 </p>
 
 <h1 align="center">🔈 VOICE LOUDER</h1>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Developer-NOOR--404-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-Paid-green?style=for-the-badge" />
 </p>
 
 ---
